@@ -1,3 +1,5 @@
+**This process involves downloading data from Canada via API, performing preliminary analysis, and creating a question-answer chat interface for interactive exploration. Using models like GPT-4, the chat allows users to ask questions and receive insights based on the data. The interface is built with Gradio to facilitate seamless interaction with the data analysis results.**
+
 1.list_datasets.py
 This script connects to the Open Canada Data API to retrieve a list of datasets. It sends a request to the package_search endpoint, specifying the number of results per request with the rows parameter (default set to 100). If the request is successful, the script outputs the titles and descriptions of the retrieved datasets.
 
