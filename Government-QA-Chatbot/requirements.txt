@@ -1,0 +1,5 @@
+langchain-openai==latest
+gradio==3.22.1
+faiss-cpu
+pymupdf
+openai

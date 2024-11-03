@@ -1,0 +1,537 @@
+
+
+
+Title: Proactive Disclosure - Travel Expenses
+Description: Travel Expenses: The rules and principles governing travel are outlined in the Policies for Ministers' Offices, the National Joint Council’s Travel Directive, the Treasury Board's [Directive on Travel, Hospitality, Conference and Event Expenditures](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=27228) and Special Travel Authorities. This dataset consolidates all the Travel Expense reports submitted by federal institutions.
+
+
+Title: Completed Access to Information Request Summaries dataset
+Description: All institutions subject to the Access to Information Act are required to post summaries of completed access to information (ATI) requests within thirty calendar days after the end of each month.
+
+Download a dataset of Completed Access to Information Request Summaries from federal institutions below.
+
+Requests focusing on personal information or third-party proprietary information are not included in these datasets. Not all federal institutions post their Completed Access to Information Request Summaries on the Open Government Portal and such information is not captured in the datasets.
+
+In addition to the downloadable dataset, a link is available below as a resource to Search Summaries of Completed Access to Information Requests completed since January 2020.
+
+
+Title: Conditions 
+Description: The Canada Energy Regulator produces a table showing conditions from projects approved since 2010. This table lists conditions by company and by specific approval number. It also shows the current status of each condition. The conditions dataset is updated daily. This dataset is used in the Conditions on Energy Projects visualization tool on the Canada Energy Regulator website. The source code for the visualization tool is also available.
+
+Title: Proactive Disclosure - Annual Expenditures on Travel, Hospitality and Conferences
+Description: In accordance with section 4.1.2 of the Treasury Board [Directive on Travel, Hospitality, Conference and Event Expenditures](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=27228), departments are required to disclose the total annual expenditures for travel, hospitality and conferences.
+
+This dataset consolidates all the Annual Expenditures on Travel, Hospitality and Conferences reports submitted by federal institutions.
+
+
+Title: 5th National Action Plan on Open Government Reporting Data
+Description: This dataset consolidates quarterly progress for Canada’s [2022-2024 National Action Plan on Open Government](https://open.canada.ca/data/en/dataset/778989e3-f9a2-4a61-92dc-fdf0293cf6ca)        
+
+Title: Proactive Disclosure - Hospitality Expenses
+Description: The rules and principles governing hospitality are outlined in the Policies for Ministers' Offices and in Treasury Board’s [Directive on Travel, Hospitality, Conference and Event Expenditures](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=27228). This dataset consolidates all the Hospitality Expense reports submitted by federal institutions.
+
+Title: Proactive Disclosure - Grants and Contributions
+Description: Grants and Contributions: All institutions subject to the Policy on Transfer Payments are required to publish reports on Grants and Contributions within the Government of Canada. This dataset consolidates all the Grants and Contributions reports submitted by federal institutions.
+
+Title: Proactive Publication - Contracts
+Description: This dataset consolidates all the proactive publication of contract reports submitted by federal government entities.
+
+Note: The information contained in these Contracts reports have been derived from data provided by the authorized federal reporting entities. As the data is unaudited, no warranty or other legal assurance as to the accuracy or completeness of this information is stated or can be implied. Any person making use of this information for any purpose does so at his or her own risk, and the Government of Canada shall have no liability. For information regarding the specifics of the contract data provided in these Contract reports, please contact the authorized federal reporting entity identified in the contract data.    
+
+Title: Proactive Disclosure - Use of Administrative Aircraft
+Description: In accordance with Appendix B of the [Policies for Ministers’ Offices](https://www.canada.ca/en/treasury-board-secretariat/services/policies-ministers-offices-january-2011.html#tocAppB), the government proactively publishes the use of government administrative aircraft. This includes use of all Challenger aircrafts.
+
+National Defence will make information on the use of administrative aircraft available to the public on a monthly basis to include:
+
+* the name of the minister requesting the aircraft
+* the date(s) of trips and the location(s) visited
+* the name(s) of the passenger(s)
+* the purpose of the trip(s)
+* the number of hours flown.
+
+Please note that information that would normally be withheld under the [Access to Information Act](https://laws-lois.justice.gc.ca/eng/acts/a-1/index.html) or the [Privacy Act](https://laws-lois.justice.gc.ca/eng/acts/p-21/index.html) does not appear on this web site.
+
+
+Title: Proactive Disclosure - Acts of Founded Wrongdoing
+Description: The Public Servants Disclosure Protection Act (PSDPA) offers federal public sector employees and other persons a secure and confidential process for the disclosure of serious wrongdoing in the workplace, as well as protection against reprisal.
+
+Information to which public access is provided must describe: the wrongdoing, including the identity of the person found to have committed it if necessary in order to describe the wrongdoing adequately; the recommendations, if any, set out in any report made to the chief executive; and any corrective action taken by the chief executive or the reasons why no corrective action was taken.
+
+
+Title: Proactive Disclosure - Position Reclassification
+Description: On February 25, 2004, the government announced the mandatory publication of information concerning the reclassification of positions in the Public Service of Canada.
+
+This dataset provides information on the reclassification of positions by department and agencies on a quarterly basis.
+
+
+Title: Experimentation Inventory
+Description: As part of the Government of Canada’s commitment to experimentation, TBS is supporting an inventory of experiments implemented as part of Government of Canada’s programs and services. The main purpose of the inventory is to publicly describe planned and ongoing experiments so as to foster learning and minimize duplication. The preregistration of experiments is also recognized as a good practice that favors transparency and prevents bias and data dredging.
+
+Title: Proactive Disclosure - Departmental Audit Committees
+Description: Departments subject to the 2017 Directive on Internal Audit are to proactively disclose remuneration and expenses of individual external departmental audit committee members appointed by Treasury Board. This includes travel expenditures, as well as remuneration earned for time spent on the following activities: attendance at meetings, reasonable preparation time, travel time and time spent at training or orientation. Members’ expenses may vary based on requirements (e.g. onboarding and training for a new member, departmental initiatives requiring additional time and advice, special meetings and/or events, point of origin of a member’s travel, etc.). It is also expected that committee Chairs will incur higher expenses related to their additional responsibilities (i.e. agenda development, meetings with Deputy, etc.).
+
+Title: Government of Canada - Consultations
+Description: **This dataset consolidates all the consultations submitted by departments and agencies in the Government of Canada.**
+
+Please note that consultations that were entered before January 2018 may be missing information such as description and subject(s). In spring of 2018, consultation information from Government of Canada departments and agencies was migrated to this dataset and new values and fields were added.
+
+Title: Proactive Disclosure - Briefing Note Titles and Numbers
+Description: In accordance with the *Access to Information Act*, the government proactively publishes titles and reference numbers of memoranda received by ministers and deputy heads.
+
+Briefing note titles may be partially or fully redacted in accordance with the legislation; for example, if the titles contain information related to national security, personal information, or Cabinet confidences. Learn more about [exemptions](https://laws-lois.justice.gc.ca/eng/acts/A-1/Fulltext.html#h-338) and [exclusions](https://laws-lois.justice.gc.ca/eng/acts/A-1/Fulltext.html#h-955).
+
+If you find a title of interest, you may make an [access to information request](https://www.tbs-sct.gc.ca/tbsf-fsct/350-57-eng.asp) in order to obtain the records.
+
+
+Title: Proactive Disclosure - Question Period notes
+Description: In accordance with the Access to Information Act, the government proactively publishes the package of question period notes that were prepared by a government institution for the minister and that were in use on the last sitting day in June and December.
+
+The question period notes may be partially or fully redacted in accordance with the legislation; for example, if the notes contain information related to national security or personal information.
+
+Title: Open Government Portal Department List
+Description: List of departments and organizations registered on the Open Government Portal. Columns include:
+
+* `uuid`
+* `title_en`: Title in English
+* `title_fr`: Title in French
+* `short_form_en`: Short form in English
+* `short_form_fr`: Short form in French
+* `department_number`: Historical department number
+* `umd_number`: Unified department number
+* `open_canada_id`: Department identifier on https://open.canada.ca
+
+Title: CanadaBuys award notices
+Description: This dataset contains information on all Government of Canada award notices published according to the Financial Administration Act.  It includes data for all Schedule I, Schedule II and Schedule III departments, agencies, Crown corporations, and other entities (unless specifically exempt) who must comply with the Government of Canada trade agreement obligations. **CanadaBuys** is the authoritative source of this information.  Visit the [How procurement works](https://canadabuys.canada.ca/en/how-procurement-works) page on CanadaBuys to learn more.
+
+All data files in this collection share a common column structure, and the procurement category field (labelled as “*procurementCategory-categorieApprovisionnement*”) can be used to filter by the following four major categories of awards:
+
+- Awards for construction, which will have a value of “CNST”
+- Awards for goods, which will have a value of “GD”
+- Awards for services, which will have a value of “SRV”
+- Awards for services related to goods, which will have a value of “SRVTGD”
+
+Some award notices may be associated with one or more of the above procurement categories.
+
+>**Note:** Some records contain long award description values that may cause issues when viewed in certain spreadsheet programs, such as Microsoft Excel. When the information doesn’t fit within the cell’s character limit, the program will insert extra rows that don’t conform to the expected column formatting. (Though, all other records will still be displayed properly, in their own rows.) To quickly remove the “spill-over data” caused by this display error in Excel, select the publication date field (labelled as “*publicationDate-datePublication*”), then click the *Filter* button on the *Data* menu ribbon. You can then use the filter pull-down list to remove any blank or non-date values from this field, which will hide the rows that only contain “spill-over” description information.
+
+---
+
+The following list describes the resources associated with this CanadaBuys award notices dataset.  Additional information on Government of Canada award notices can be found on the **Award notices** tab of the [CanadaBuys Tender opportunities page](https://canadabuys.canada.ca/en/tender-opportunities).
+
+>**NOTE:** While the CanadaBuys online portal includes awards notices from across multiple levels of government, the data files in this related dataset only include notices from federal government organizations.
+
+---
+
+(1) **CanadaBuys data dictionary**: This XML file offers descriptions of each data field in the award notices files linked below, as well as other procurement-related datasets CanadaBuys produces. Use this as a guide for understanding the data elements in these files. This dictionary is updated as needed to reflect changes to the data elements.
+
+(2) **All CanadaBuys award notices, 2022-08-08 onward**: This file contains up to date information on all award notices published on CanadaBuys.  This includes any award notices that were published on or after August 8, 2022, when CanadaBuys became the system of record for all tender and award notices for the Government of Canada.  This file includes any amendments made to these award notices during their lifecycles. It is refreshed each morning, between 7:00 am and 8:30 am (UTC-0500) to include any updates or amendments, as needed. Award notices in this file can have any publication date on or after August 8, 2022 (displayed in the field labelled “*publicationDate-datePublication*”), and can have a status of **active**, **cancelled** or **expired** (displayed in the field labelled “*awardStatus-attributionStatut-eng*”).
+
+(3) **Legacy award notices, 2012 to 2022-08 (prior to CanadaBuys)**: This file contains details of the award notices published prior to the implementation of CanadaBuys, which became the system of record for all tender and award notices for the Government of Canada on August 8, 2022.  This datafile is refreshed monthly.  The over 100,000 awards in this file have publication dates from August 6, 2022 and prior (displayed in the field labelled “*publicationDate-datePublication*”), and have a status of **active**, **cancelled** or **expired** (displayed included in the field labelled “*awardStatus-attributionStatut-eng*”).
+>**Note**: Procurement data was structured differently in the legacy applications previously used to administer Government of Canada contracts. Efforts have been made to manipulate these historical records into the structure used by the CanadaBuys data files, to make them easier to analyse and compare with new records. This process is not perfect since simple one-to-one mappings can’t be made in many cases.  You can access these historical records in their original format as part of the [archived copy of the original tender notices dataset](https://open.canada.ca/data/en/dataset/ffd38960-1853-4c19-ba26-e50bea2cb2d5), which contained awards-related data files.  You can also refer to the [supporting documentation for understanding the new CanadaBuys tender and award notices datasets](https://donnees-data.tpsgc-pwgsc.gc.ca/ba2/ac-cb/soutien-support-eng.html).
+
+(4) **Award notices, YYYY-YYYY**: These files contain information on all contracts awarded in the specified fiscal year.  The current fiscal year's file is refreshed each morning, between 7:00 am and 8:30 am (UTC-0500) to include any updates or amendments, as needed.  The files associated with past fiscal years are updated monthly.  Awards in these files can have any publication date between April 1 of a given year and March 31 of the subsequent year (displayed in the field labelled “*publicationDate-datePublication*”) and can have an award status of **active**, **cancelled** or **expired** (displayed in the field labelled “*awardStatus-attributionStatut-eng*”).
+>**Note**: New award notice data files will be added on April 1 for each fiscal year.
+
+Title: CanadaBuys tender notices
+Description: This dataset contains information on Government of Canada tender information published according to the Financial Administration Act.  It includes data for all Schedule I, Schedule II and Schedule III departments, agencies, Crown corporations, and other entities (unless specifically exempt) who must comply with the Government of Canada trade agreement obligations. **CanadaBuys** is the authoritative source of this information.  Visit the [How procurement works](https://canadabuys.canada.ca/en/how-procurement-works) page on the CanadaBuys website to learn more.
+
+All data files in this collection share a common column structure, and the procurement category field (labelled as “*procurementCategory-categorieApprovisionnement*”) can be used to filter by the following four major categories of tenders:
+
+- Tenders for construction, which will have a value of “CNST”
+- Tenders for goods, which will have a value of “GD”
+- Tenders for services, which will have a value of “SRV”
+- Tenders for services related to goods, which will have a value of “SRVTGD”
+
+A tender may be associated with one or more of the above procurement categories.
+
+>**Note:** Some records contain long tender description values that may cause issues when viewed in certain spreadsheet programs, such as Microsoft Excel. When the information doesn’t fit within the cell’s character limit, the program will insert extra rows that don’t conform to the expected column formatting. (Though, all other records will still be displayed properly, in their own rows.) To quickly remove the “spill-over data” caused by this display error in Excel, select the publication date field (labelled as “*publicationDate-datePublication*”), then click the *Filter* button on the *Data* menu ribbon. You can then use the filter pull-down list to remove any blank or non-date values from this field, which will hide the rows that only contain “spill-over” description information.
+
+---
+
+The following list describes the resources associated with this CanadaBuys tender notices dataset.  Additional information on Government of Canada tenders can also be found on the **Tender notices** tab of the [CanadaBuys tender opportunities page](https://canadabuys.canada.ca/en/tender-opportunities).
+
+>**NOTE:** While the CanadaBuys online portal includes tender opportunities from across multiple levels of government, the data files in this related dataset only include notices from federal government organizations.
+
+---
+
+(1) **CanadaBuys data dictionary**: This XML file offers descriptions of each data field in the tender notices files linked below, as well as other procurement-related datasets CanadaBuys produces. Use this as a guide for understanding the data elements in these files. This dictionary is updated as needed to reflect changes to the data elements.
+
+(2) **New tender notices**: This file contains up to date information on all new tender notices that are published to CanadaBuys throughout a given day. The file is updated every two hours, from 6:15 am until 10:15 pm (UTC-0500) to include new tenders as they are published.  All tenders in this file will have a publication date matching the current day (displayed in the field labelled “*publicationDate-datePublication*”), or the day prior for systems that feed into this file on a nightly basis.
+
+(3) **Open tender notices**: This file contains up to date information on all tender notices that are open for bidding on CanadaBuys, including any amendments made to these tender notices during their lifecycles. The file is refreshed each morning, between 7:00 am and 8:30 am (UTC-0500) to include newly published open tenders.  All tenders in this file will have a status of **open** (displayed in the field labelled “*tenderStatus-tenderStatut-eng*”).
+
+(4) **All CanadaBuys tender notices, 2022-08-08 onwards**: This file contains up to date information on all tender notices published through CanadaBuys.  This includes any tender notices that were **open** for bids on or after August 8, 2022, when CanadaBuys launched as the system of record for all Tender Notices for the Government of Canada.  This file includes any amendments made to these tender notices during their lifecycles. It is refreshed each morning, between 7:00 am and 8:30 am (UTC-0500) to include any updates or amendments, as needed. Tender notices in this file can have any publication date on or after August 8, 2022 (displayed in the field labelled “*publicationDate-datePublication*”), and can have a status of **open**, **cancelled** or **expired** (displayed in the field labelled “*tenderStatus-tenderStatut-eng*”).
+
+(5) **Legacy tender notices, 2009 to 2022-08 (prior to CanadaBuys)**: This file contains details of the tender notices that were launched prior to the implementation of CanadaBuys, which became the system of record for all tender notices for the Government of Canada on August 8, 2022.  This datafile is refreshed monthly.  The over 70,000 tenders in this file have publication dates from August 5, 2022 and before (displayed in the field labelled “*publicationDate-datePublication*”) and have a status of **cancelled** or **expired** (displayed in the field labelled “*tenderStatus-tenderStatut-eng*”).
+>**Note**: Procurement data was structured differently in the legacy applications previously used to administer Government of Canada tender notices. Efforts have been made to manipulate these historical records into the structure used by the CanadaBuys data files, to make them easier to analyse and compare with new records. This process is not perfect since simple one-to-one mappings can’t be made in many cases.  You can access these historical records in their original format as part of the [archived copy of the original tender notices dataset](https://open.canada.ca/data/en/dataset/ffd38960-1853-4c19-ba26-e50bea2cb2d5).  You can also refer to the [supporting documentation for understanding the new CanadaBuys tender and award notices datasets](https://donnees-data.tpsgc-pwgsc.gc.ca/ba2/ac-cb/soutien-support-eng.html).
+
+(6) **Tender notices, YYYY-YYYY**: These files contain information on all tender notices published in the specified fiscal year that are no longer open to bidding.  The current fiscal year's file is refreshed each morning, between 7:00 am and 8:30 am (UTC-0500) to include any updates or amendments, as needed.  The files associated with past fiscal years are refreshed monthly.  Tender notices in these files can have any publication date between April 1 of a given year and March 31 of the subsequent year (displayed in the field labelled “*publicationDate-datePublication*”) and can have a status of **cancelled** or **expired** (displayed in the field labelled “*tenderStatus-tenderStatut-eng*”).  New records are added to these files once related tenders reach their close date, or are cancelled.
+>**Note**: New tender notice data files will be added on April 1 for each fiscal year.
+
+Title: Report on the administration of the Privacy Act 2022-2023
+Description: The Privacy Act (the Act) was enacted on July 1, 1983.
+
+The Act provides Canadian citizen and permanent residents the right of access to their own personal information under the control of a government institution, and with a right to request correction of their personal information. The Act also sets out the obligations of government institutions regarding the collection, use, disclosure, retention and disposal of personal information they hold.
+
+This annual report details the activities related to the application of the Act in Canada Economic Development for Quebec Regions for the period April 1, 2022 to March 31, 2023. Pursuant to section 72 of the Act, it was tabled in each House of Parliament.
+
+Title: Report on the administration of the Access to Information Act 2022-2023
+Description: The Access to Information Act (the Act) was enacted on July 1, 1983.
+
+The Act allows Canadian citizens, permanent residents and any person present in Canada a general to exercise a general right to access to information from a federal institution, subject to specific and limited exceptions.
+
+This annual report details the activities related to the application of the Act in Canada Economic Development for Quebec Regions for the period April 1, 2022 to March 31, 2023. Pursuant to section 94 of the Access to Information Act and section 20 of the Service Fees Act, it was tabled in each House of Parliament.
+
+Title: HUMA Committee briefing binder: Appearance by the Minister of Families, Children and Social Development - May 9, 2024
+Description: Appearance by the Minister of Families, Children and Social Development, Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities (HUMA), Supplementary Estimates (C) 2023-2024 and Main Estimates 2024-2025. Date: May 9, 2024.
+
+Title: HUMA Committee briefing binder: Appearance by the Minister of Employment, Workforce Development and Official Languages - May 6, 2024
+Description: Minister Of Employment, Workforce Development and Official Languages, Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities (HUMA), Supplementary Estimates (C) for the Fiscal Year 2023 to 2024 and the Main Estimates for the Fiscal Year of 2024 to 2025. Date: May 6, 2024, 3:30-4:30 p.m.
+
+
+
+Title: Opioid- and Stimulant-related Harms in Canada
+Description: Data from surveillance reports provide information on opioid- and stimulant-related harms (deaths, hospitalizations, emergency department visits, and responses by emergency medical services) in Canada.
+
+The Public Health Agency of Canada (PHAC) works closely with the provinces and territories to collect and share accurate information about the overdose crisis in order to provide a national picture of the public health impact of opioids and other drugs in Canada and to help guide efforts to reduce substance-related harms.
+
+Title: Open Data Portal Catalogue
+Description: The open data portal catalogue is a downloadable dataset containing some key metadata for the general datasets available on the Government of Canada's Open Data portal.
+
+Title: Remote Sensing Search 2014 and Discovery of HMS Erebus
+Description: This report describes the sixth field season of a multi-year commitment to search for the wrecks of Erebus and Terror, lost during the disastrous Sir John Franklin Expedition of 1845 in search of a Northwest Passage. As well, it describes the September 2014 discovery of the wreck of Erebus. To date the survey and discovery have drawn together the considerable expertise, resources, and capabilities of a broad range of project partners, representing both the government and private sectors where common interest in Arctic re-search has been identified. The 2014 underwater archaeological survey was a multi-disciplinary collaborative effort between Parks Canada’s UAT, the CG, GN, RCN, CSA, CIS, DRDC, the private not-for profit ARF, W. Garfield Weston Foundation, Royal Canadian Geographical Society (RCGS), One Ocean Expeditions, and Shell Canada.
+At the outset of the 2014 field season the marine archaeological survey aimed to locate the remains of Franklin’s two missing ships using marine re-mote sensing. The discovery of Erebus during the first week of September 2014 immediately shifted the project aims to an evaluation of the structural and commemorative integrity of the site, assessment of its environmental conditions, and a preliminary inventory of exposed structures and artefacts.
+
+Title: Concentrations of flame retardants (PBDE), polychlorinated biphenyls (PCB) and organochlorinated pesticides measured in the blubber of belugas from the St. Lawrence Estuary population (Delphinapterus leucas)
+Description: The endangered St. Lawrence Estuary (SLE) beluga population is in decline and has shown no signs of recovery despite multiple protection measures. Changes in prey availability and exposure to organohalogen contaminants have been proposed as potential factors limiting the its recovery. Studies on SLE belugas show that exposure to contaminants may actually disrupt the individual’s energy metabolism. However, whether this translates into changes in energy reserves and body condition of individuals is still unknown. This dataset was developed to study the potential relationships between the body condition of individuals and their concentrations of organohalogen contaminants and lipid metabolites.
+
+The sampling consisted in the recovery of 51 beluga carcasses (37 females and 14 males) stranded in the St. Lawrence estuary between 1998 and 2016 and deemed fresh enough (Geraci-Lounsbury code = <3) to undergo a laboratory necropsy. The necropsy included the following procedures: determination of cause of death, morphometric measurements, sampling of the outer layer of blubber, age measurement and assessment of physical condition. The blubber samples were then subjected to lipid extraction and measurement of their concentration of polybrominated or emerging flame retardants, polychlorinated biphenyls (PCBs) and organochlorine pesticides. Their concentration of the following lipid metabolites were also measured: fatty acids, acylcarnitines, lysophosphatidylcholines, phosphatidylcholines and sphingomyelins. The methods are described in further detail in Bernier-Graveline et al. (2021, https://doi.org/10.1016/j.envres.2020.110272). Data quality control procedures included triplicate analyses of method blanks and standard reference material.
+
+This dataset contains morphometric measurements, sex and age, cause of death, a body condition index, the relative proportion of lipids in blubber, the concentration of polybrominated or emerging flame retardants, polychlorinated biphenyls ( PCB) and organochlorine pesticides and derived products.
+
+The contact for the main co-authors of Bernier-Graveline et al. (2021, https://doi.org/10.1016/j.envres.2020.110272) are included in the file "Authors_contact_auteurs.pdf"
+
+Title: Appearance before the Standing Senate Committee on National Finance (NFFN) (May 28, 2024)
+Description: FCAC Briefing package for the appearance before the Standing Senate Committee on National Finance (NFFN) on May 28, 2024
+
+Title: Appearance before the Standing Senate Committee on Banking, Commerce and the Economy (BANC) (May 30, 2024)
+Description: FCAC Briefing package for the appearance before the Standing Senate Committee on Banking, Commerce and the Economy (BANC) on May 30, 2024
+
+Title: Appearance before the House Standing Committee on Finance (FINA) (May 31, 2024)
+Description: FCAC Briefing package for the appearance before the House Standing Committee on Finance (FINA) on May 31, 2024
+
+Title: The National Service Provider List (NSPL)
+Description: The National Service Provider List (NSPL) is a comprehensive list of emergency and transitional homeless shelters with permanent beds in Canada. It is updated on an annual basis by the Homelessness Policy Directorate of Housing, Infrastructure and Communities Canada (HICC). It includes information on bed capacity, location, and the clientele served by each service provider. The annual updates are made possible through collaborative efforts, relying on data contributions from service providers, communities, and various partners. This multifaceted information is gathered through a combination of primary and secondary research methods, as well as through collaborative data-sharing initiatives with jurisdictions utilizing the Homeless Individuals and Families Information System (HIFIS) or comparable administrative systems for tracking homelessness data.
+
+Related Reports and Statistics:
+
+-The Shelter Capacity Report: Housing, Infrastructure and Communities Canada (HICC) - Data analysis, reports and publications (infc.gc.ca) https://secure.infc.gc.ca/homelessness-sans-abri/reports-rapports/publications-eng.html
+
+-Statistics Canada. Table 14-10-0353-01 Homeless Shelter Capacity in Canada from 2016 to 2022, Housing, Infrastructure and Communities Canada (HICC) (statcan.gc.ca): https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410035301
+
+
+Title: Return on Investments as per the Public Accounts of Canada
+Description: At the end of each fiscal year, government-wide financial
+information is published in the Public Accounts. This dataset
+provides details for the current year of the category of other
+revenues called return on investments. Return on investments
+consists mainly of interest from loans and advances, dividends
+from investments, and transfer of profits, as recorded by
+departments before any adjustments are made.
+
+Title: Shrimp catch and bycatch estimates from trawling and trapping in Clio Channel, British Columbia
+Description: These data sets provide information pertaining to shrimp and bycatch estimates associated with beam-trawling and trapping (2001-2002) in Clio Channel. Data sets were compiled and formatted by Meagan Mak.
+
+  Abstract from report:
+
+  As part of a project investigating possible modification of marine ecosystems by shrimp trawling and trapping, we enumerated beam trawl and prawn trap catches at two locations in Clio Channel, south -central coast of British Columbia. Beam trawl surveys were conducted in Bones Bay and Turnour Bay during October 2001 and January 2002, respectively, and a prawn trap survey was conducted in Turnour Bay during March 2002. Catch data from the two gear types are presented.
+
+Title: Near-seafloor drift transect video imagery and high-resolution digital still images from a 2023 survey in support of Marine Protected Area monitoring of St. Anns Bank, Atlantic Canada
+Description: Funded under DFO's Marine Conservation Targets Program, this optical imagery benthic survey captured 16 drift-camera transects in the St. Anns Bank Marine Protected Area (MPA - 4364 km2) and 2 coastal transects west of the MPA, Atlantic Canada from August 15-23, 2023. High-resolution still images (n=1941) were taken periodically throughout each transect, while continuous high-definition downward- (~9 hours) and forward-facing (~8.5 hours) video was collected simultaneously. Distance travelled and distance between still images (m) was calculated using ArcGIS tools. Field of view (FOV) was estimated by measuring the length and width of a subset of still images (n=500) in ImageJ2, using 10-cm lasers for scale. FOV was standardized for each reported altitude. Transects ranged from 754 m to 2.8 km in length (~22 km surveyed in total), collecting imagery for 20 minutes to just over 1 hour at a time, surveying depths from 17 to 144 m below chart datum. Transect locations were selected based on unique bathymetric features and benthoscapes as well as areas previously surveyed in 2015.
+
+  Cite this data as: Lawton P, Teed L. Near-seafloor drift transect video imagery and high-resolution digital still images from a 2023 survey in support of Marine Protected Area monitoring of St. Anns Bank, Atlantic Canada. Published September 2024. Coastal Ecosystems Science Division, Fisheries and Oceans Canada, St. Andrews, N.B.
+
+Title: Seasonal Zooplankton Climatologies of the British Columbia Exclusive Economic Zone (1990-2019)
+Description: Description:
+
+  Seasonal climatologies for Zooplankton biomass in seven size categories were calculated for the period 1990-2019.  The data used were a subset of the Fisheries and Oceans Canada, Institute of Ocean Sciences Zooplankton Database. This dataset is incomplete and is regularly updated as analysis takes place.
+
+  Methods:
+
+  Data-Interpolating Variational Analysis (DIVA) was used for spatial. Seasonal averages were computed as the mean of yearly seasonal means. Spring months were defined as April to June, summer months were defined as July to September, fall months were defined as October to December, and winter months were defined as January to March. The data available here contain raster layers of seasonal Zooplankton climatology for the Canadian Pacific Exclusive Economic Zone (EEZ), with high spatial resolution of 1/300 degree.
+
+  Uncertainties:
+
+  Uncertainties are introduced when observational data are spatially interpolated to varying distances from the observation point. Climatological averages are calculated from these interpolated values. Caution should be used for data in inlets and nearshore as the interpolation does not perform well in these areas, data in some inlets have been masked.
+
+Title: Near-seafloor drift transect video and high-resolution digital still imagery from a 2023 survey in the Quoddy Region of the lower, western Bay of Fundy
+Description: Funded under DFO's Marine Conservation Targets Program, this optical imagery benthic survey captured 24 drift-camera transects from September 22-26, 2023 in the Quoddy Region of the lower, western Bay of Fundy, New Brunswick, Canada. The survey area includes Passamaquoddy Bay, the 'Head Harbour/West Isles Archipelago/The Passages' Ecologically and Biologically Significant Area (ESBA, ~113 km2), and Wolves Bank (a unique bathymetric feature south of the Wolves islands). High-resolution still images (n=1875) were taken periodically throughout each transect, while continuous high-definition downward- (>10 hours) and forward-facing (~10.5 hours) video was collected simultaneously. Distance travelled and distance between still images (m) was calculated using ArcGIS tools. Field of view (FOV) was estimated by measuring the length and width of a subset of still images (n=343) in ImageJ2, using 10-cm lasers for scale. FOV was standardized for each reported altitude. Transects ranged from 133 m to 2.6 km in length (~18 km surveyed in total), collecting imagery continuously for 3 minutes to more than 1 hour at a time, surveying depths from 24 to 144 m below chart datum. Transect locations were selected based on unique bathymetric features as well as areas previously predicted to have high habitat suitability for vulnerable marine ecosystem species.
+
+  Cite this data as: Lawton P, Teed L. Near-seafloor drift transect video and high-resolution digital still imagery from a 2023 survey in the Quoddy Region of the lower, western Bay of Fundy. Published September 2024. Coastal Ecosystems Science Division, Fisheries and Oceans Canada, St. Andrews, N.B.
+
+Title: Education Costs as per the Public Accounts of Canada
+Description: At the end of each fiscal year, government-wide financial information is published in the Public Accounts. This dataset, based on the Volume 3 of the Public Accounts, provides details of education costs incurred in the given fiscal year. For the purpose of this statement, an education cost represents the cost of any long-term education activity. That activity is any training or development given to a Government employee and conducted at an educational institution outside of the Public Service that amounted or will amount to a total of 65 working days or more over a maximum period of three (3) years, or that involved or will involve total expenditures in excess of $25,000 (including salary). This dataset is from the Public Accounts of Canada and is not the official record of information. The official version of records can be found on the Receiver General website for the most recent fiscal year and the Library and Archives website for historical years.
+
+Title: Commissions - Details of Travel and Living Expenses as per the Public Accounts of Canada
+Description: At the end of each fiscal year, government-wide financial information is published in the Public Accounts. This dataset presents the total travel and living costs paid to each commission's member.
+
+Title: Commissions - General Information by Commission as per the Public Accounts of Canada
+Description: At the end of each fiscal year, government-wide financial information is published in the Public Accounts. This dataset present general information for each commission involved in a public inquiry or investigation.
+
+Title: Federal-Provincial Shared-Cost Programs as per the Public Accounts of Canada
+Description: At the end of each fiscal year, government-wide financial
+information is published in the Public Accounts. This dataset
+presents, by province and territory, and for each
+federal-provincial shared-cost program, the current year and
+previous year expenditures and the expenditures from inception
+of the program. Programs are reported year after year until
+completion, even if there is no expenditure in a given year.
+
+Title: Accountable Advances as per the Public Accounts of Canada
+Description: At the end of each fiscal year, the Receiver general of Canada publishes financial information in the Public Accounts. This dataset presents accountable advances which is required by section 38(3) of the <em>Financial Administration Act</em>. The data is provided for each department and includes advances outstanding at the end of the fiscal year, advances settled and advances outstanding as at April 30.
+
+Title: Debts, Obligations and Claims Written Off or Forgiven as per the Public Accounts of Canada
+Description: At the end of each fiscal year, financial information is
+published in the Public Accounts. This dataset presents debts,
+obligations and claims written off or forgiven.
+
+Title: Budgetary details by allotment as per the Public Accounts of Canada
+Description: At the end of each fiscal year, financial information is published in the Public Accounts. This dataset provides a distribution of budgetary appropriations by allotment as approved by Treasury Board, together with related current year expenditures.
+
+Title: Details of Respendable Amounts as per the Public Accounts of Canada
+Description: At the end of each fiscal year, financial information is published in the Public Accounts. This dataset presents the Details of Respendable Amounts per core responsibility for each department or agency including authorities available and authorities used as well as budgetary and non-budgetary amounts.
+
+Title: Authorities Available from Previous Years as per the Public Accounts of Canada
+Description: At the end of each fiscal year, financial information is published in the Public Accounts. This dataset provides the full wording of most authorities (budgetary and non-budgetary) available from previous years, by ministry.
+
+Title: Source and Disposition of Authorities by Type (voted and statutory) as per the Public Accounts of Canada
+Description: At the end of each fiscal year, financial information is published in the Public Accounts. This dataset presents the source and disposition of budgetary and non-budgetary authorities by ministry and by type of authority (voted and statutory).
+
+Title: Source and Disposition of Budgetary and Non-Budgetary Authorities by Ministry as per the Public Accounts of Canada
+Description: At the end of each fiscal year, financial information is published in the Public Accounts. This dataset presents the source and disposition of budgetary and non-budgetary authorities by ministry.
+
+Title: Recapitulation of External Revenues by Source as per the Public Accounts of Canada
+Description: At the end of each fiscal year, the Receiver general of Canada publishes financial information in the Public Accounts. This dataset is based on the Table 4a of Volume 2, provides the Recapitulation of external revenues by source for each ministry and department.
+
+This dataset reconciles total ministerial revenues reported in table 4—Ministerial revenues with external revenues reported in table 1—Consolidated statement of revenues and expenses as well as Consolidated Statement of Operations and Accumulated Deficit in Section 2 of Volume 1. The reconciling items (in thousands of dollars) include the revenues from the consolidated specified purpose accounts, the accrual of accounts receivable and the adjustment of the Exchange Fund Account to recognize the international reserves held in the Account, the accrual and deferral of other revenues, the revenues of Crown corporations and other entities, tax credits and repayments and the elimination of internal revenues.
+
+This dataset is from the Public Accounts of Canada and is not the official record of information. The official version of record can be found on the Receiver General website for the most recent fiscal year and the Library and Archives website for historical years.
+
+
+Title: Recapitulation of External Expenses by Type as per the Public Accounts of Canada
+Description: At the end of each fiscal year, financial information is
+published in the Public Accounts. This dataset reconciles total
+ministerial net expenditures with external expenses.
+
+Title: Consolidated Statement of Revenues and Expenses as per the Public Accounts
+Description: At the end of each fiscal year, financial information is published in the Public Accounts. This dataset presents revenues and expenses for fiscal year.
+
+Title: International organizations contingent liabilities as per the Public Accounts of Canada
+Description: At the end of each fiscal year, financial information is published in the Public Accounts. This dataset details the contingent liabilities for international organizations
+
+Title: Guarantees provided by the Government as per the Public Accounts of Canada
+Description: At the end of each fiscal year, financial information is published in the Public Accounts. This dataset lists the outstanding guarantees. The authorized limits indicated represent the aggregate total of various types of authorities of Government bodies as stipulated in legislation, legal agreements or other documents that may be in force at any one time.
+
+Title: International contractual obligations as per the Public Accounts of Canada
+Description: At the end of each fiscal year, financial information is published
+in the Public Accounts. This dataset summarizes the international
+contractual obligations according to whether they would result in
+the disbursement of funds for non-budgetary share capital and
+loans, or for budgetary transfer payments, loans and advances
+and contractual obligations.
+
+Title: International reserves held in the exchange fund account as per the Public Accounts of Canada
+Description: At the end of each fiscal year, the Receiver General of Canada publishes financial information in the Public Accounts. This dataset shows international reserves held in and advances to the Exchange Fund Account.
+
+Title: Supplementary retirement benefits account as per the Public Accounts of Canada
+Description: At the end of each fiscal year, the Receiver general of Canada publishes financial information in the Public Accounts. This dataset, a non-official record of information based on its Volume 1, Section 6—Pensions and Other Future Benefits, provides a financial information comparative (in dollars) related to public sector pensions. It includes data from the Supplementary Retirement Benefits Account which continues to provide for pension benefit increases resulting from indexation for pensions of federally appointed judges, and recipients of pensions under various continuation acts and other related acts. The official version of record can be found on the Receiver General website for the most recent fiscal year and the Library and Archives website for historical years.
+
+Title: Standing Offers and Supply Arrangements
+Description: Standing Offers and Supply Arrangements (SOSA), formerly known as Pre-Qualified Supplier Data (PQSD), is information about businesses that are currently pre-qualified to supply goods and services to the Government of Canada. Updated weekly, the data identifies businesses holding Public Works and Government Services Canada (PWGSC) standing offers and supply arrangements. Visit the "About SOSA" page to learn more: https://buyandsell.gc.ca/procurement-data/standing-offers-and-supply-arrangements/about-sosa.
+
+
+The Procurement Data Dictionary offers a description of each data field contained in the SOSA file, as well as other datasets published on Buyandsell.gc.ca. The XML file is meant to be used as a guide for understanding the various data elements. It is updated on an “as needed” frequency to reflect changes to data elements on Buyandsell.gc.ca.
+
+Title: T2 Corporate Scientific Research and Experimental Development (SR&ED) Statistics (2015 – 2021 tax years)
+Description: The SR&ED statistical tables provide key tax and accounting information as of March 31, 2024. The tables include select information from all T2 returns that were assessed or reassessed for corporations with tax years ending in years 2015 to 2021.
+
+Title: Automatically Detected Field Boundaries in Canada, 2023
+Description: OneSoil employs a proprietary machine learning (ML) model based on state-of-the-art instance segmentation to detect field boundaries. Utilizing raw Sentinel-2 data aggregated according to local vegetation season maps and an additional upscaling module to enhance boundary accuracy, we ensure precise results. OneSoil’s data preprocessing involves the utilization of their cloud detector module and local season mapping.
+
+Title: Montreal ACES mobile surveys 2023
+Description: These datafiles contain observations collected with the Atmospheric Composition and Environmental Survey (ACES) platform during a series of mobile surveys in the metropolitan area of Montreal in October 2023. Each file contains calibrated data from a LI-COR LI-7810 and from an Airmar 220-WX weather station. The LI-COR LI-7810 measures atmospheric CH4, CO2 and H2O mole fractions and the Airmar 220-WX measures weather conditions (air temperature, atmospheric pressure, wind conditions) and GPS coordinates.
+
+Title: Public Service Pay Centre update
+Description: Monthly update of Public Service Pay Centre progress including total number of transactions ready to be processed, workflow of transactions received and processed by the Pay Centre, and transactions processed within service standards.
+
+Title: Parks Canada's National Fire Management Program: Annual Report 2023
+Description: Canada faced its most unprecedented fire season on record in 2023, challenging wildland fire management agencies from across the country. The Parks Canada National Fire Management Program 2023 Annual Report gives a brief snapshot of the important work of the program and the people who are behind it.
+
+Title: Message to Industry – Opening of the Application Period for the Calendar Year TRQs
+Description: Global Affairs Canada has opened the application period for the 2022 calendar year TRQs, starting on October 1, 2021 and with a deadline of November 15, 2021.
+
+Title: Commissioner of Firearms Reports
+Description: The Commissioner of Firearms Report outlines the Canadian Firearms Program (CFP) priorities, activities and service delivery to its more than two million license holders. As required by the Firearms Act, the report is submitted annually to the Minister of Public Safety for tabling in Parliament.
+
+Title: Cannabis Market Data
+Description: Health Canada collects data on cannabis under the Cannabis Tracking System Ministerial Order. Data collected is for these types of cannabis in the legal industry: dried cannabis, edible cannabis, cannabis extracts, cannabis topicals, cannabis plants and cannabis seeds. Data categories includes: medical sales, non-medical sales, packaged inventory, unpackaged inventory and licensed area.
+
+Title:  External Credential Management Service Availability
+Description: External Credential Management is a cyber authentication service provided by the Government of Canada to allow the public and businesses to securely conduct online business with various governmental programs and services. Use of this service is mandatory for Government of Canada departments and agencies. The two services provided are GCKey and SecureKey. The GCKey service is provided by the Government of Canada to allow users to securely conduct online business with various governmental programs and services.  The SecureKey Concierge service offers a more convenient way to sign in to Government of Canada services.
+
+This dataset contains service availability data of the External Credential Management services including, GCKey and SecureKey Concierge.
+
+NOTE: Beginning fiscal year 2022-2023 the External Credential Management service line is now subdivided into two distinct service lines: GCKey and SecureKey Concierge.
+
+
+Title: Forest management and disturbances
+Description: The Canadian Environmental Sustainability Indicators (CESI) program provides data and information to track Canada's performance on key environmental sustainability issues. The Forest management and disturbances indicator includes information on the management of Canadian forests, disturbances to Canadian forests, and planting and seeding of trees in Canada. Specific measures included in this indicator look at the annual timber harvest, number of forest fires, areas burned by forest fires, defoliation by insects, deforestation, and seeding and planting. Information is provided to Canadians in a number of formats including: charts and graphs, HTML and CSV data tables, and downloadable reports. See the supplementary documentation for the data sources and details on how the data were collected and how the indicator was calculated.
+
+Canadian Environmental Sustainability Indicators: https://www.canada.ca/environmental-indicators
+
+Title: Natural Gas Liquids - Exports
+Description: Raw natural gas as it comes from the wellhead is mostly comprised of methane (the largest constituent of household natural gas), but also contains various heavier hydrocarbons. The heavier hydrocarbons consist of ethane, propane, butanes, pentanes plus, and condensate; and are called natural gas liquids (NGLs). In Canada, most NGLs are produced at natural gas processing plants, with the remainder produced as a byproduct of oil refining or bitumen upgrading.
+The Canada Energy Regulator regulates the export of ethane, propane and butanes. Export orders or licences are required to export these NGLs from Canada. Holders of export authorizations report monthly on their export activities to the Commission.
+This dataset provides historical export volumes of NGLs (by year and month), by origin, destination, and mode of transportation of the exports.
+
+Title: Natural Gas – Imports and Exports
+Description: The Canada Energy Regulator (CER) regulates the export of natural gas. Orders or licenses are required to export natural gas, including liquefied natural gas, from Canada. Holders of these authorizations report monthly on their activities to CER. Import and export activities are available by port from 1985 to August 2024. Data is delayed by approximately 2 months.
+
+Disclaimer:
+The CER stopped authorizing natural gas import activities in August 2022 as it is not a requirement under the Canadian Energy Regulator Act (see the CER’s 3 February 2023 letter - https://www.cer-rec.gc.ca/en/about/how-we-regulate/guidance/cera/gas-import-authorization-regulatory-change-no-new-import-authorizations-required.html). This impacted the natural gas (including liquefied natural gas) import data submitted to the CER. Since the CER stopped authorizing import activities, natural gas reports are based on incomplete data and do not reflect the total volumes imported. The CER’s natural gas import reports will be discontinued after October 2024. Historical data will remain on our website. Another set of natural gas import data is available through Statistics Canada’s Canadian International Merchandise Trade web application (https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.html).
+
+Title: Liquefied Natural Gas (LNG) – Imports and Exports
+Description: The Canada Energy Regulator regulates the export of natural gas. Orders or licenses are required to export natural gas, including liquefied natural gas, from Canada. Holders of these authorizations report monthly on their activities to CER. LNG import and export activities are available by terminal from 2009 to August 2024. Data is delayed by approximately 2 months.
+
+Disclaimer:
+The Canada Energy Regulator (CER) stopped authorizing natural gas import activities in August 2022 as it is not a requirement under the Canadian Energy Regulator Act (see the CER’s 3 February 2023 letter  - https://www.cer-rec.gc.ca/en/about/how-we-regulate/guidance/cera/gas-import-authorization-regulatory-change-no-new-import-authorizations-required.html). This impacted the natural gas (including liquefied natural gas) import data submitted to the CER. Since the CER stopped authorizing import activities, natural gas reports are based on incomplete data and do not reflect the total volumes imported. The CER’s natural gas import reports will be discontinued after October 2024. Historical data will remain on our website. Another set of natural gas import data is available through Statistics Canada’s Canadian International Merchandise Trade web application. (https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.html)
+
+
+Title: Critical Habitat for Aquatic Species at Risk - Canada
+Description: The Species at Risk (SAR) Program is responsible for carrying out DFO’s mandate under the Species at Risk Act (SARA) to protect, recover and conserve all listed aquatic SAR in Canada.
+
+  Critical habitat is identified for species listed as Endangered or Threatened under the Species at Risk Act (SARA).
+
+  This mapping tool is for general guidance only.  “Mapped” representations of waterbodies and watercourses are based on authoritative provincial geospatial products, guidance and standards.  Due to the nature of dynamic systems and the resolution/accuracy of these data sets, areas within which critical habitat is found as displayed on the mapping tool may not align exactly with natural watercourses.  If discrepancies occur, refer to the relevant species recovery strategy and/or action plan for additional information on critical habitat.  If additional guidance is required, please contact the Fish and Fish Habitat Protection Program: https://www.dfo-mpo.gc.ca/pnw-ppe/contact-eng.html
+
+  Critical habitat is defined under section 2 of SARA as: "the habitat that is necessary for the survival or recovery of a listed wildlife species and that is identified as the species' critical habitat in the recovery strategy or in an action plan for the species". Section 49(1)(a) of SARA requires that a species' Recovery Strategy/Action Plan include an identification of the species' critical habitat to the extent possible, based on the best available information, including information provided by the Committee on the Status of Endangered Wildlife in Canada (COSEWIC). SARA makes it illegal to destroy any part of the critical habitat of SAR and may impose restrictions on development and construction.
+
+  Critical habitats were assembled by SARA regional biologists and recovery teams. They are designed to support the protection and recovery of species listed as Endangered or Threatened under the Species at Risk Act. They are also described and displayed in species' Recovery Documents and Action Plans.
+
+Title: Fisheries and Oceans Canada Species at Risk Distribution (Range)
+Description: The Species at Risk (SAR) Program is responsible for carrying out DFO’s mandate under the Species at Risk Act (SARA) to protect, recover and conserve all listed aquatic SAR in Canada. As part of this mandate, this spatial database has been developed to identify areas in which aquatic species listed under SARA may be found.
+
+  Distribution and range information are identified for species listed as Endangered, Threatened or Special Concern under SARA.
+
+  Distribution (range) polygons and lines were assembled by regional SARA biologists using the best available information, including COSEWIC status reports, recovery potential assessments, academic literature, and expert opinion. These spatial data support the protection, recovery and conservation of species listed as Endangered, Threatened or Special Concern under SARA. Species distributions are also described and displayed in Recovery Strategies, Action Plans and/or Management Plans.
+
+  Discrepancies may exist between the distribution data shown in a species’ SARA recovery document and the current spatial data. Please contact DFO for more information on any data discrepancies.
+
+Title: Central Group Caribou Partnership Agreement Zones
+Description: The Central Group Caribou Partnership Agreement Zones are the spatial data associated with the *Intergovernmental Partnership Agreement for the Conservation of the Central Group of the Southern Mountain Caribou* (February 21, 2020). This most current version of the data was produced in July 2024.
+
+Title: Monitoring the quality of river and river water
+Description: The theme on physicochemical monitoring of rivers and rivers presents data from all stations in networks monitoring water quality in rivers in Quebec and the St. Lawrence River. The purpose of networks for monitoring general water quality is to characterize, using current physicochemical and bacteriological parameters, the quality of water in spatial terms and to monitor the evolution of this quality over time. For the regular monitoring of the general quality of river and river water, the parameters measured are: total phosphorus, total nitrogen, nitrites and nitrates, ammonia nitrogen, chlorophyll a, pheopigments, faecal coliforms, faecal coliforms, turbidity, suspended matter, pH, conductivity, dissolved organic carbon and temperature. This data is used to calculate the Bacteriological and Physicochemical Water Quality Index (IQBP), a water quality classification index. The data set on physicochemical monitoring of rivers and rivers also includes the drainage areas of some of the stations. The attribute table provides a compilation of land use by category for the last year available at the time the data was generated. Follow-up is carried out annually.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: Wetlands
+Description: This data set contains the polygons delimiting the wetlands of the Montreal agglomeration. These were updated as part of the development of the [Regional Plan for Humid and Hydric Environments (PRMHH)] (https://montreal.ca/articles/un-plan-pour-proteger-les-milieux-humides-et-hydriques-67104) for the agglomeration of Montreal. They illustrate the wetlands, the type of environment and the conservation choices that have been assigned to them to meet the objectives of the Regional Plan. A visualization of the data is possible on the [interactive map] (https://experience.arcgis.com/experience/87e6da34dc3348a1a5e3f1014c266242) associated with the PRMHH.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: Spring 2020 flood mapping
+Description: # #Données linked to the monitoring of 2020 floods in Quebec ## #Liste of available data: * Location of flood events since April 2, 2020 (WMS web service); * Municipalities affected by flood events since April 2, 2020, updated in real time according to the presence of events (WMS web service); * Open water extent limits derived from Sentinel1 satellite images, generated by Dromedary Géo-Innovations (web service) WMS and download); * Sentinel-1 radar satellite image from 4 April 2020 processed by the firm Geo-Innovation camel that presents a map of the ice cover and possibly flooded areas (with or without ice) for the Chaudière River sector, where ice jams caused floods (resolution: 10m). Possible flooded areas (with or without ice) were identified from a comparative analysis between two Sentinel-1 images from 4 April and 23 March 2020 acquired in the same orbit; * Sentinel-2 satellite image from 8 April 2020 in the visible and near infrared in the visible and near infrared on the Lac Saint-Pierre sector (WMS web service and download). All data can be viewed on an interactive map based on IGO2. ## #Note: The Sentinel-1 and Sentinel-2 satellite images are distributed in open data by the European Space Agency (ESA) and were processed by the firm Dromadaire-Geo-Innovations.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: Urban plan - Land use
+Description: The land use illustrated by this map has ten categories. They are explained in [Section 3.1.1] (https://smvt.maps.arcgis.com/apps/webappviewer/index.html?id=1525a850c1cf4b08afd7ea66d5e36fef) of the Urban Plan. The first four are inclusive in nature and correspond to distinct urban environments (residential, mixed, diversified activities and employment sectors). The other five, which are essentially exclusive in nature, apply to areas reserved for particular activities (large institutional facilities, convents, monasteries or places of worship, agricultural, conservation, large green space or waterfront park, large right-of-way or large public infrastructure). Consult the [interactive map] (https://smvt.maps.arcgis.com/apps/webappviewer/index.html?id=1525a850c1cf4b08afd7ea66d5e36fef) of the Urban Plan to visualize thematic data.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: Groundwater knowledge projects - PACES
+Description: These projects aim to draw up a realistic and concrete portrait of groundwater resources in municipal territories in southern Quebec. They were carried out by university research teams, in partnership with regional actors, in order to provide the knowledge essential for sustainable and integrated management of resources in a context of climate change. This knowledge is available to the general public, in the form of databases, cartographic representations, summary and scientific reports and cartographic atlases, in various formats, for almost all of the municipal territory of southern Quebec. In particular, they provide information on the quality, quantity and vulnerability of the resource. They are useful for water professionals working for example in the field of water research for municipal water supply, resource protection or university research. They are also useful in ensuring the compatibility of development and land use planning with the protection of water resources. For more information, consult the Groundwater Knowledge Projects page on the website of the Ministry of the Environment and the Fight against Climate Change.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: GPS basic compensation data
+Description: These files allow users to add corrections to their data in post-processing, thus improving its accuracy.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: Use of the territory
+Description: The theme of land use offers a complete vision of the various uses of Quebec territory. It is the result of the assembly of various geographic data respecting use and distribution agreements. This product combines information on agricultural, forest, humid, humid, aquatic, anthropogenic environments, as well as on forest cuts and bare soils. This theme is based on data sources such as the ecoforest inventory of southern Quebec, agricultural databases and ecological maps. The accuracy of the product depends on the accuracy of the source layers. To access the files, which are hosted on an FTP server, it is recommended to use FileZilla (https://filezilla-project.org/) or Internet Explorer.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: Cultural program 2020-2021
+Description: The fight against COVID-19 has transformed travel in urban areas. The City of Montreal therefore offers the Safe Active Ways (VAS) circuit. This new way of adopting travel is established in order to offer Montrealers the opportunity to travel in safe temporary accommodations in 2020-21. This data set corresponds to the cultural programming of the City of Montreal, whose main objective is to make culture accessible to citizens within VAS and throughout the metropolitan area. With this program, the City of Montreal aims to highlight the work of Montreal artists and creators and to promote cultural offerings outside the walls. An interactive map will be available on [the City of Montreal's website] (https://services.montreal.ca/programmation-culturelle/), to identify the multitude of cultural activities in progress. This card will be updated and improved continuously over the weeks. __Note__: Data is evolving and projects will be added in the future.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: Lakes and Rivers Database (LCE)
+Description: This theme offers detailed information on lakes and waterways throughout Quebec. All the descriptors available in this layer come directly from the Lakes and Rivers (LCE) database. The data includes lake centroids and stream junctions and includes information on lake morphology such as length, width, depth, volume, and elevation, as well as the area of watersheds. This data is intended for researchers, engineers, government agencies, government agencies, environmental professionals, as well as students and industries, for applications in the environment, hydrology, and hydraulics.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: Location of educational institutions in the school network in Quebec
+Description: Location of public schools (French-speaking, English-speaking and special status) as well as private and governmental schools for preschool, primary, secondary, vocational training and adult education. In addition, the location of educational institutions in the college and university networks is also available.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: Forest Management in Canada, 2020: Vector Tile Layer
+Description: Forest Management in Canada 2020 Vector Tile Layer
+
+  Forest management in Canada 2020 vector tile layer.Gestion forestière au Canada 2020 Couche de tuiles vectorielles. This vector tile layer is used in the Story Map of Forest Management in Canada, 2020. Cette couche de tuiles vectorielles est utilisée dans la Aménagement des forêts au Canada, 2020.
+
+Title: Rapport quinquennal sur l’état des forêts
+Description: À titre de ministre des Ressources naturelles et du Développement du Nord, j’ai le plaisir de présenter à la Assemblée législature le rapport quinquennal sur l’état des forêts pour la période qui se termine le 31 mars 2021.
+
+  À titre de ministre des Ressources naturelles et du Développement du Nord, j’ai le plaisir de présenter à la Assemblée législature le rapport quinquennal sur l’état des forêts pour la période qui se termine le 31 mars 2021. Au Manitoba, les forêts font partie intégrante de la vie. La population manitobaine tire une foule d’avantages économiques, environnementaux et culturels de cette vaste ressource, tant au chapitre de l’emploi que des loisirs et de l’éducation. Grâce à une gestion adaptée – c’est‑à-dire durable – des forêts, il est possible de parvenir à un équilibre entre la croissance et la protection. En collaboration avec les collectivités de la province et avec des organisations locales et nationales, le Manitoba continue de protéger et de bonifier les forêts urbaines et les forêts naturelles en surveillant et en gérant les maladies et les insectes envahissants, en se préparant pour le changement climatique et en établissant des prévisions concernant les effets de ce dernier sur nos forêts. Nous accomplissons ceci en encourageant les initiatives nouvelles et existantes visant à réduire les coûts de l’énergie, notamment en soutenant la jeune industrie de la biomasse, ainsi qu’en consultant les communautés autochtones de toute la province et en reconnaissant les droits de celles-ci.
+
+Title: Manitoba Road Network 2022
+Description: Manitoba Transportation and Infrastructure's road network, current to 2022. Réseau routier de Transports et Infrastructure Manitoba, à jour jusqu'en 2022.
+
+  Created by Manitoba Infrastructure, the 2022 Manitoba Road Network comprises four years of updates.Previous exports were based on the now legacy Control Sections.  In this updated road network, the department adapts an Advanced Linear Referencing System (ALRS) with an Linear Referencing Method based on routes. This new model was build from the control section geometry and then enhanced by adding updated northern roads geometry captured by GPS, as well as interchanges, right turn cutoffs, service roads, and other road alignments not previously captured in the legacy road network.Fields included [Alias (Field Name):  Field description.] OBJECTID (OBJECTID): Sequential, unique whole numbers are automatically system generated. Route ID (RouteId): The route's identifier, an information rich key comprised of designation, route name, and route type. Route Designation  (RteDesignation): The designated level of government responsible for the road. Route Name  (RteName): The name of the route, including direction. Route Type (RteType): The type of route, e.g. PTH (Provincial Trunk Highway), PR (Provincial Road), Acess (Provincial Access Road) Road Number (Signed) (Road_Number_Signed): A highway number labelling field. Shape Length (Shape__Length): Length in meters automatically system generated.DescriptionCréé par Infrastructure Manitoba, le réseau routier du Manitoba 2022 comprend quatre années de mises à jour.Les exportations précédentes étaient effectuées à partir des anciennes unités de commande. Dans cette nouvelle version, le ministère a adapté le système de référence linéaire à l’aide d’une méthode de référence linéaire basée sur des itinéraires. Ce nouveau modèle a été bâti à partir de la géométrie des unités de commande et a été optimisé par l’ajout de la géométrie des routes du Nord saisie sur un système de localisation GPS ainsi que l’ajout des échangeurs, des bretelles de virage à droite, des voies de desserte et des tracés routiers qui n’avaient pas été pris en compte dans les modèles antérieurs.Voici les champs prévus [Titre (Nom du champ) : Description du champ.] OBJECTID (OBJECTID) : Un numéro de série unique automatiquement généré par le système. Identificateur de route (RouteId) : L’identificateur de la route, une information clé qui comprend notamment la désignation, le nom et le type de la route. Désignation de la route  (RteDesignation) : L’ordre de gouvernement responsable de la route. Nom de la route (RteName) : Le nom de la route, y compris sa direction. Type de ro ute (RteType) : Le type de la route : route provinciale à grande circulation, route provinciale secondaire, route d’accès provinciale, etc. Numéro de la route (nombre algébrique) (Road_Number_Signed) : Un étiquetage numérique de la route. Indicateur de longueur (Shape__Length) : La longueur en mètres automatiquement générée par le système.
+
+Title: Manitoba Package Services Map
+Description: Carte indiquant où se trouvent les services de conditionnement à forfait du Manitoba.
+
+  Cette carte indique où se trouvent les services de conditionnement à forfait du Manitoba. Un conditionneur à forfait (sous-traitant) est une entreprise qui fabrique et conditionne des produits alimentaires vendus par d’autres entreprises. La présente liste n’est pas exhaustive et ne constitue pas une recommandation de services. Pour de plus amples renseignements, consultez le site Web d’  Agriculture Manitoba. <o:p></o:p> Cette carte utilise la couche de points des services de conditionnement à forfait du Manitoba et fait partie de l’appli des services de conditionnement à forfait du Manitoba.
+
+Title: Manitoba Economic Regions
+Description: Polygon feature layer of Manitoba's economic regions
+
+  This feature layer depicts the boundaries of economic regions in Manitoba. There are eight regions in Manitoba, defined by Statistics Canada. Fields included [Alias (Field Name): Field description] Economic Region (Economic_Region): The name of the economic region For more information, see Regional Economic Profiles on the Manitoba  government  website.FF
+
+Title: Current BWA PWS
+Description: Feature layer of current Boil Water Advisories issued for Public Water Systems (PWS) in Manitoba.
+
+Title: Écoles d’immersion française du Manitoba
+Description: Application Web qui indique l’emplacement des écoles publiques du Manitoba qui offrent le Programme d’immersion française.
+
+  Cette application indique l’emplacement des écoles publiques du Manitoba qui offrent le Programme d’immersion française. Ce programme inclusif s’adresse à tous les élèves dont la langue maternelle est autre que le français, quels que soient leurs habilités et leurs besoins. Le Programme d'immersion française a pour but de former des citoyens du monde plurilingues, confiants, fiers et engagés. Pour obtenir d’autres renseignements, accédez au site d’Écoles d’immersion française au Manitoba.
+
+Title: Manitoba Forest Inventory – 1970s / Inventaire forestier du Manitoba – années 1970
+Description: This dataset represents Manitoba's digital forest inventory for the 1970s. Please note that because of data capture techniques used for this inventory, its base features (e.g., water, roads) may not align with other datasets (e.g., Google Maps, Esri Basemaps). │ Cet ensemble de données représente l’inventaire forestier numérique du Manitoba pour les années 1970. Veuillez noter qu’en raison des techniques de saisie des données utilisées pour cet inventaire, les caractéristiques de base (p. ex., l’eau, les routes) peuvent ne pas correspondre à d’autres ensembles de données (p. ex., Google Maps, Esri Basemaps).
+
+  This dataset represents Manitoba's digital forest inventory for the 1970s. It was created from forest inventories captured by photo-interpretation during different time periods in the 1970s. It consists of original inventory polygons without any subsequent modifications, such as disturbance or silvicultural activities. Please note that, because of data capture techniques used for this inventory, its base features (e.g., water, roads) may not align with other datasets (e.g., Google Maps, Esri Basemaps).This dataset covers a large portion of the middle of Manitoba, and is almost exclusively within the Boreal Plains and Boreal Shield ecozones. Forest inventories created in the 1970s used the Forest Resource Inventory (FRI) standards to capture details about the land base relevant to forestry, along with non-forest base features. Data collected in the FRI standard included, among other things, tree species composition, site class (site growing conditions), cutting class (stand maturity, and a proxy for age), crown closure and productivity. This dataset also includes estimated age and year of photography attributes.This feature class is also available for download from DataMB .   Metadata: Manitoba Forest Inventory –1970s |  Cet ensemble de données représente l’inventaire forestier numérique du Manitoba pour les années 1970. Il a été créé à partir d’inventaires forestiers capturés par photo-interprétation à différentes périodes dans les années 1970. Il s’agit des polygones d’inventaire d’origine, sans aucune modification ultérieure, comme des perturbations ou des activités sylvicoles. Veuillez noter qu’en raison des techniques de saisie des données utilisées pour cet inventaire, les caractéristiques de base (p. ex., l’eau, les routes) peuvent ne pas correspondre à d’autres ensembles de données (p. ex., Google Maps, Esri Basemaps).Cet ensemble de données couvre une grande partie du centre du Manitoba et se situe presque exclusivement dans les écozones des Plaines boréales et du Bouclier boréal. Les inventaires forestiers créés dans les années 1970 utilisaient les normes de l’Inventaire des ressources forestières (IRF) pour saisir les détails de la base terrestre pertinents pour la sylviculture, ainsi que les caractéristiques de la base de terrains non forestiers. Les données recueillies dans le cadre de la norme IRF comprenaient, entre autres, la composition des espèces d’arbres, la classe de site (conditions de croissance du site), la classe opérationnelle de peuplements (maturité du peuplement et approximation de l’âge), la fermeture du couvert et la productivité. Cet ensemble de données comprend également des attributs tels que l’âge estimé et l’année de la photographie.Cette classe d’entités peut également être téléchargée à partir de Données MB.Métadonnées: Inventaire forestier du Manitoba – années 1970
+
+Title: Changement de gestion forestière au Canada, 2017 et 2020 : Cahier d’informations
+Description: Cahier d’exercices sur les changements apportés à la gestion forestière au Canada, 2017 et 2020
+
+  Cahier d’exercices sur les changements apportés à la gestion forestière au Canada, 2017 et 2020. Cette fait partie de la Aménagement des forêts au Canada, 2020 (Story Map of Forest Management in Canada, 2020).
+
+Title: Forest Management in Canada, 2020: Web Scene
+Description: Forest Management in Canada 2020 Web Scene
+
+  Web scene of Canada's Managed Forests, 2020 Gestion forestière au Canada, 2020 : Scène Web This web scene is used in the Story Map of Forest Management in Canada, 2020. Cette scène Web est utilisée dans la Aménagement des forêts au Canada, 2020.
+
+Title: Manitoba Provincial Forests – Version 6
+Description: Manitoba's Provincial Forest Boundaries (version 6): There are currently 15 provincial forests totalling almost 22,000 km2. Attributes include the name of the provincial forest, the year it was established and its area. Detailed descriptions of Manitoba’s provincial forests are provided in the Provincial Forest Act Regulations. | Limites des forêts provinciales du Manitoba (version 6) : il existe actuellement 15 forêts provinciales qui occupent une superficie totale de près de 22 000 km2. Les caractéristiques présentées sont entre autres le nom de la forêt provinciale, l’année où elle a été établie et sa surface. Les descriptions détaillées des forêts provinciales du Manitoba sont fournies dans les règlements de la Loi sur les forêts.
+
+  Manitoba's Provincial Forest B oundaries ( V ersion 6 ). Manitoba's provincial forests reserve certain areas in the province for perpetual growth of timber, preserve the forest cover thereon and provide for a reasonable use of all the resources that the forest lands contain. All Crown lands within a provincial forest are withdrawn from disposition, sale, settlement or occupancy, except under authority of the Forest Act . Before the Province of Manitoba was established, European settlers were promised 160 acres of free land if they lived on it and cleared it for agriculture. As a result, farms began replacing our southern forests. The federal government decided they must retain some forests for building material. In 1885 , they established Turtle Mountain, Spruce Woods and Riding Mountain (now a national park) as timber reserves. Duck Mountain and Porcupine Mountain followed in 1906. What started out as federal timber reserves 100 years ago have become our provincial forests of today. Manitoba has 15 provincial forests , totalling almost 22,000 sq. km . These forests are among the highest quality timber stands in the province. Today, our provincial forests are much more than reserves for timber. They are also places for wildlife, recreation and research. Control of Manitoba's forests was transferred from the federal to the provincial governments in 1930. Provincial forests are Crown lands owned by the people of Manitoba. The feature class name (BDY_MB_PROV_FOREST_PY) components include: 1. ISO 19115 Topic Category Name (BDY for boundary); 2. Location code (MB for Manitoba); 3. Intuitive or descriptive name (PROV_FOREST); 4. Data/geometry type (PY for polygon); 5. Version number (v 6 ).Manitoba's provincial forests include Agassiz Provincial Forest, Belair Provincial Forest, Brightstone Sand Hills Provincial Forest, Cat Hills Provincial Forest, Cormorant Provincial Forest, Duck Mountain, Moose Creek Provincial Forest, Northwest Angle Provincial Forest, Porcupine Provincial Forest, Sandilands Provincial Forest, Spruce Woods Provincial Forest, Swan-Pelican Provincial Forest, Turtle Mountain Provincial Forest, Wampum Provincial Forest, and Whiteshell Provincial Forest.Detailed descriptions of Manitoba’s Provincial Forests are provided in the Provincial Forest Act Regulations .   The dataset includes the following fields /Les ensembles de données comprennent les champs suivants Name / Nom Alias Description PROV_FOREST_ID Provincial Forest ID / No de la forêt provinciale Provincial Forest identifier Identificateur de la forêt provinciale PROV_FOREST_NAME Provincial Forest Name Provincial Forest name -- NOM_FORET_PROV Nom de la forêt provinciale -- Nom de la forêt provinciale ESTABLISHED Year Established / Année d’établissement The year that the provincial forest was established L’année où la forêt provinciale a été établie AREA_HA Area / Surface (Hectares) Area in hectares La surface en hectares   Forêts provinciales du Manitoba – Version 6 Dans les forêts provinciales du Manitoba, certaines régions de la province sont perpétuellement réservées aux arbres, afin de préserver la couverture fournie par la forêt et de permettre l’utilisation raisonnable de toutes les ressources des forêts. Toutes les terres domaniales situées dans les forêts provinciales ne peuvent être vendues, aliénées, occupées ou faire l’objet d’une disposition par droits successifs, autrement que d’une manière conforme à la Loi sur les forêts. Avant la création de la province du Manitoba, les colons européens se faisaient promettre 160 acres de terres gratuitement s’ils y vivaient et les préparaient pour l’agriculture. Par conséquent, les fermes ont commencé à remplacer les forêts du sud. Le gouvernement fédéral a décidé qu’il devait conserver des forêts pour avoir des matériaux de construction. En 1885, il a fait de Turtle Mountain, de Spruce Woods et du Mont-Riding (qui est désormais un parc national) des réserves de bois. Ont ensuite suivi les monts Duck et Porcupine en 1906. Les forêts qui étaient des réserves de bois fédérales il y a 100 ans sont aujourd’hui nos forêts provinciales. Le Manitoba possède actuellement 15 forêts provinciales qui occupent une surface totale de près de 22 000 km2. Ces forêts font partie des peuplements forestiers de la meilleure qualité de la province. Aujourd’hui, nos forêts provinciales sont beaucoup plus que de simples réserves de bois. Elles sont l’endroit parfait pour les animaux sauvages, les loisirs et la recherche. Le contrôle des forêts du Manitoba a été transféré du gouvernement fédéral aux gouvernements provinciaux en 1930. Les forêts provinciales sont des terres domaniales détenues par les Manitobains. Les éléments du nom de classification (BDY_MB_PROV_FOREST_PY) comprennent : 1. Nom de la catégorie de sujet ISO 19115 (BDY pour boundary [limite]); 2. Code de l’emplacement (MB pour Manitoba); 3. Nom descriptif ou intuitif (PROV_FOREST); 4. Type ou donnée géométrique (PY pour polygone); 5. Numéro de version (v6).Les forêts provinciales du Manitoba comprennent la f orêt provinciale d’Agassiz, la forêt provinciale Belair, la forêt provinciale Brightstone Sand Hills, la forêt provinciale Cat Hills, la forêt provinciale Cormorant, la forêt provinciale Duck Mountain, la forêt provinciale Moose Creek, la forêt provinciale Northwest Angle, la forêt provinciale Porcupine, la forêt provinciale Sandilands, la forêt provinciale Spruce Woods, la forêt provinciale Swan-Pelican, la forêt provinciale Turtle Mountain, la forêt provinciale Wampum et la forêt provinciale du Whiteshell.Les descriptions détaillées des forêts provinciales du Manitoba figurent dans le Règlement sur la désignation des forêts provinciales en application de la Loi sur les forêts.
+
+Title: Manitoba Forest Management License Areas (FML) – Version 4
+Description: Manitoba's Forest Management Licence Area (FML) Boundaries – Version 4. Limites des zones de gestion forestière du Manitoba visées par une licence – Version 4.
+
+  The Forest Act provides for the establishment of Forest Management Licences to provide a continuous supply of timber to the forest industry. A Forest Management Licence, granted for a period of not more than 20 years, may be renewed for further periods. The Forest Management Licence describes the land upon which trees may be cut, the volume of wood that may be harvested, and other terms and conditions. There are currently three Forest Management Licences in Manitoba. Timber management and forest renewal are the responsibilities of Manitoba Conservation on Crown Forest Land outside of Forest Management Licence areas, and within Forest Management Licence areas where the wood is used by a facility other than that operated by the Forest Management Licensee. Version 4 of Manitoba's Forest Management Licence (FML) boundaries incorporates minor edits made to the BDY_MB_FMU_PY feature class, ensuring coincident line work with the provincial boundary and provincial forests. Version 3 of Manitoba's Forest Management Licence (FML) boundaries includes FML-2 and FML-3. Previous boundaries associated with FML-1 and IWSAs have been removed. To update and improve the positional accuracy of Manitoba's Forest Management Licence (FML) boundaries, written descriptions of FML areas were referenced along with line work from Forest Land Inventories (FLI), Forest Resource Inventories (FRI) and Manitoba's township fabric to improve p rovincial FML boundaries. Boundary line work for all of the following feature classes were topologically checked for coincident line work: 1. BDY_MB_FMU_PY (Provincial FMUs); 2. Provincial Boundary; 3. BDY_MB_FML_PY (Provincial Forest Management Licence Areas); 4. BDY_MB_FOREST_SECTION_PY (Provincial Forest Sections); 5. BDY_MB_PROV_FOREST_PY (Provincial Forests)   The dataset includes the following fields /Les ensembles de données comprennent les champs suivants Name / Nom Alias Description FML FML Forest Management Licence Area number Numéro de zone de gestion forestière visée par une licence FML_NAME FML Name / Nom Forest Management Licence Area name Nom de zone de gestion forestière visée par une licence AREA_HA Area / Surface (Hectares) Area in hectares La surface en hectares   Limites des zones de gestion forestière du Manitoba visées par une licence – Version 4 La Loi sur les forêts prévoit l’établissement de licence de gestion forestière pour assurer un approvisionnement continu de bois à l’industrie forestière. La licence de gestion forestière, délivrée pour une période ne dépassant pas 20 ans, peut être renouvelée. Elle contient la description des terres sur lesquelles les arbres peuvent être coupés, le volume de bois pouvant être récolté, de même que d’autres conditions. Trois licences de gestion forestière sont actuellement en vigueur au Manitoba. La gestion du bois d’œuvre et la régénération des forêts sont la responsabilité de Conservation Manitoba sur les terres domaniales à l’extérieur des zones de gestion forestière visées par une licence, de même que dans ces zones lorsque le bois est utilisé par une installation autre que celle exploitée par le détenteur de la licence. La version 4 des limites des zones de gestion forestière du Manitoba visées par une licence intègre les modifications mineures apportées à la classe d’entités BDY_MB_FMU_PY, garantissant la coïncidence des lignes de démarcation avec les limites provinciales et les forêts provinciales. La version 3 des limites des zones de gestion forestière du Manitoba visées par une licence comprend les zones de gestion forestière visées par une licence 2 et 3. Les limites précédentes associées à la zone de gestion forestière visée par une licence 1 et aux zones intégrées d’approvisionnement en bois ont été supprimées. Pour mettre à jour et améliorer la précision d’alignement des limites des licences de gestion forestière du Manitoba, on s’est reporté aux descriptions écrites des zones de gestion forestière visées par une licence, ainsi qu’aux lignes de démarcation des inventaires des forêts, des inventaires des ressources forestières et de la structure des cantons du Manitoba pour améliorer les limites des licences provinciales de gestion des forêts. Les lignes de démarcation de toutes les classes d’entités suivantes ont été vérifiées sur le plan topologique pour en confirmer la coïncidence : 1. BDY_MB_FMU_PY (unités d’aménagement provinciales); 2. limite provinciale; 3. BDY_MB_FML_PY (zones de gestion forestière provinciales visées par une licence); 4. BDY_MB_FOREST_SECTION_PY (zones forestières provinciales); 5. BDY_MB_PROV_FOREST_PY (forêts provinciales).
+
+Title: Great Lakes Migrant Waterfowl Survey
+Description: The Great Lakes Migrant Waterfowl Surveys provide periodic data on waterfowl abundance, spatial and temporal distributions, and use along the shorelines of major water bodies and river systems in Ontario during mostly during spring and fall, and to a lesser extent during summer and winter, seasons. The primary survey area covers the shoreline and nearshore (~1km) waters of the Lower Great Lakes region of Ontario, specifically including the St. Lawrence River, Lake Ontario, Niagara River, Lake Erie, Detroit River and Lake St. Clair and associated major marshes and embayments. Aerial surveys, typically flown several times within spring (March –May: 1969, 1971, 1972, 1975 –1979, 1981, 1982, 1984 –1988, 1991 –1996, 1998 –2003 & 2009 –2011) and fall (September –December: 1968, 1970, 1971, 1974 –2003 & 2009 –2011) survey periods, have been conducted periodically on a relatively regular basis (approx. 5-10 years) along the Lower Great Lakes shorelines between 1968 and 2011. Smaller-scale surveys also have been conducted periodically during summer (June –August: 1968 –1970, 1972, 1974, 1975, 1977, 1982, 1984, 1986, 1989, 1999 & 2002) in this region. This survey often has been conducted in conjunction with the Midwinter Survey, so its data (up to 2004) also are included in the CWS Migrant Waterfowl Surveys database (Year ≥2004 & Month = January & February).Data from several aerial surveys conducted periodically during the non-breeding period outside the Lower Great Lakes region also are included in this database. Spring and fall surveys have been conducted along the shorelines and nearshore waters of the Upper Great Lakes region of Ontario, specifically at St. Clair River (Fall 2012 & 2013), Lake Huron (Fall 1973, 1996; Spring 1974) / Georgian Bay (Fall 1973, 1996, 2012 & 2013) & Lake Superior (Fall 2000). Aerial surveys also have been conducted inland in southeastern Ontario along the Rideau River (Fall 1998 & Spring 1999).
+
+Title: Enhanced interpretation of stream sediment geochemical data for NTS 105C
+Description: New geochemical data from re-analysis of archived stream sediment samples have been assessed using weighted sums modeling and catchment basin analysis as described in the methodology report that accompanies this map (YGS Open File 2015-10). Both commodity and pathfinder element abundances are evaluated to highlight areas that show geochemical responses consistent with a variety of base and precious-metal mineral deposit types. The results of modeling, completed using two approaches, are presented as a series of catchment maps and associated data files. This release is part of a regional assessment of stream sediment geochemistry that covers a large part of Yukon.
+
+Title: Surficial Geology Points (1:100-125k)
+Description: This GIS dataset is a Yukon-wide compilation of surficial geology points derived from 72 published and unpublished 1:100,000 and 1:125,000 scale surficial geology maps produced by the GSC and Yukon Government. Point features captured include: field station, fossil and sample locations; glacial landforms such as erratics, kames, kettles, drumlins and flutings; permafrost features such as pingos, palsas, patterned ground and thermokarst depressions; and other features such as landslides and tors.
+
+Title: Territories of school service centers and school boards in Quebec
+Description: Territories of French-language school service centers and English-speaking school boards and school boards with special status in the Quebec public education network**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: Hydrogeological Information System (HIS)
+Description: The Hydrogeological Information System (HIS) contains the physical characteristics of wells and boreholes (location, depth, stratigraphy encountered, etc.) mainly from drilling reports transmitted by well drillers for groundwater sampling installations serving private drinking water residences. The geographic coverage corresponds to all of Quebec although most of the data are found in the south of the province. A monthly update is made. SIH data can be useful for hydrogeology professionals, the academic community and a wider audience in order to make interpretations on portions of territory, for example on the depth of the rock in a sector, or to consult more precise points of information such as the description of a specific identified well.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
+
+Title: buildings
+Description: Buildings located on the territory of the City of Sherbrooke and belonging to one of the following categories: business, hospital, school or municipal building. These categories are respectively associated with subtype codes 2, 3, 4, and 5 attributes:ID - Unique IdentifierSubtype - Building Subtype Code (2 - Business, 3 - Hospital, 4 - Hospital, 4 - School, 4 - School, 5 - Municipal Building)**This third party metadata element was translated using an automated translation tool (Amazon Translate).**
